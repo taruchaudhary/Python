@@ -1,0 +1,5 @@
+Tuple = (0, 1, 2, 3, 2, 3, 1, 3, 2)
+a = Tuple.index(3)
+print( a)
+b = Tuple.index(3, 4)
+print('First occurrence of 3 after 4th index is:',b)
